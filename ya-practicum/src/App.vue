@@ -18,9 +18,9 @@ import HelloWorld from './components/HelloWorld.vue'
         <img src="../src/assets/its_me_3.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light">Пак Дмитрий</h1>
         <div class="social-links mt-3 text-center">
-          <a href="https://tele.click/{username}" class="telegram"><i class="bi bi-telegram"></i></a>
+          <a href="https://tele.click/gramcash" class="telegram"><i class="bi bi-telegram"></i></a>
           <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-          <a href="https://www.instagram.com/magap/" class="instagram"><i class="bi bi-instagram"></i></a>
+          <a target="_blank" href="https://www.instagram.com/magap/" class="instagram"><i class="bi bi-instagram"></i></a>
         </div>
       </div>
 
@@ -101,7 +101,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
         <div class="section-title">
           <h2>Github</h2>
-          <h3>Ссылка на <a target="_blank" href="https://github.com/pakdmitry88/vue-ya-practicum" class="github"><i class="bi bi-github"></i></a> данного проекта</h3>
+          <h3>Ссылка на <a target="_blank" href="https://github.com/pakdmitry88/vue-ya-practicum/tree/master/ya-practicum" class="github"><i class="bi bi-github"></i></a> данного проекта</h3>
         </div>
 
       </div>
